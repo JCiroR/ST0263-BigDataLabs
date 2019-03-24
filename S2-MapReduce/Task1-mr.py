@@ -1,3 +1,4 @@
+# coding=utf-8
 # Salario promedio por sector económico
 from mrjob.job import MRJob
 
